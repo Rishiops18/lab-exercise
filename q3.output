@@ -1,0 +1,8 @@
+---**AREA CALCULATOR**---
+1. Circle
+2. Rectangle
+3. Square
+4. Triangle
+Enter your choice (1, 2, 3, 4): 1
+Enter the radius: 6
+Area of Circle = 113.03999999999999
