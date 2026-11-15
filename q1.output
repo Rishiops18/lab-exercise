@@ -1,0 +1,21 @@
+Enter your name: Rishi
+Enter your usn: 25BTRGA014
+Enter first number: 45
+Enter second number: 87
+Hello, Rishi
+
+USN, 25BTRGA014
+
+--- Arithmetic Operators ---
+Addition = 132
+Subtraction = -42
+Multiplication = 3915
+Division = 0.5172413793103449
+Modulus = 45
+Power = 675287480916119557539451818816740997089009559913482951650119698139327568517835934843681926586314928574912574976707446694490499794483184814453125
+
+--- Comparison Operators ---
+num1 > num2 = False
+num1 < num2 = True
+num1 == num2 = False
+num1 != num2 = True
