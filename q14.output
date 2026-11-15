@@ -1,0 +1,34 @@
+--- Bank Account Menu ---
+1. Deposit
+2. Withdraw
+3. Check balance
+4. Exit
+Enter choice: 1
+Enter deposit amount: 5600
+Deposit successful.
+
+--- Bank Account Menu ---
+1. Deposit
+2. Withdraw
+3. Check balance
+4. Exit
+Enter choice: 2
+Enter withdrawal amount: 900
+Withdrawal successful.
+
+--- Bank Account Menu ---
+1. Deposit
+2. Withdraw
+3. Check balance
+4. Exit
+Enter choice: 3
+Account holder: ram
+Current balance: 4700.0
+
+--- Bank Account Menu ---
+1. Deposit
+2. Withdraw
+3. Check balance
+4. Exit
+Enter choice: 4
+Thank you for using the bank system.
