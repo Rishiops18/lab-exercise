@@ -1,0 +1,37 @@
+--- Contact Book ---
+1. Add contact
+2. View contacts
+3. Search contact
+4. Exit
+Enter choice: 1
+Enter contact name: ram
+Enter phone number: 8765345676
+Enter email address: ram@yahoo
+Contact added successfully.
+
+--- Contact Book ---
+1. Add contact
+2. View contacts
+3. Search contact
+4. Exit
+Enter choice: 2
+1. ram | 8765345676 | ram@yahoo
+
+--- Contact Book ---
+1. Add contact
+2. View contacts
+3. Search contact
+4. Exit
+Enter choice: 3
+Enter the name to search: ram
+Name: ram
+Phone: 8765345676
+Email: ram@yahoo
+
+--- Contact Book ---
+1. Add contact
+2. View contacts
+3. Search contact
+4. Exit
+Enter choice: 4
+Exiting contact book.
