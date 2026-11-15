@@ -1,0 +1,9 @@
+Guess the number between 1 and 100.
+Enter your guess: 7
+Too low! Try again.
+Enter your guess: 5
+Too low! Try again.
+Enter your guess: 4
+Too low! Try again.
+Enter your guess: 36
+Too low! Try again.
