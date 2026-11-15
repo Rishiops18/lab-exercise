@@ -1,0 +1,36 @@
+--- Student Data Manager ---
+1. Add student
+2. View students
+3. Exit
+Enter choice: 1
+Enter student name: vaibhav
+Enter roll number: 001
+Enter marks: 88
+Student record saved.
+
+--- Student Data Manager ---
+1. Add student
+2. View students
+3. Exit
+Enter choice: 1
+Enter student name: rishi
+Enter roll number: 002
+Enter marks: 78
+Student record saved.
+
+--- Student Data Manager ---
+1. Add student
+2. View students
+3. Exit
+Enter choice: 2
+
+Roll No | Name | Marks
+001 | vaibhav | 88
+002 | rishi | 78
+
+--- Student Data Manager ---
+1. Add student
+2. View students
+3. Exit
+Enter choice: 3
+Exiting.
