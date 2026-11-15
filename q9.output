@@ -1,0 +1,18 @@
+Enter number of students: 3
+
+Student 1
+Enter student name: rahul
+Enter marks out of 100: 89
+
+Student 2
+Enter student name: sudhanva
+Enter marks out of 100: 56
+
+Student 3
+Enter student name: vaibhav
+Enter marks out of 100: 98
+
+--- Student Results ---
+rahul - Marks: 89.0 - Grade: A
+sudhanva - Marks: 56.0 - Grade: D
+vaibhav - Marks: 98.0 - Grade: A+
