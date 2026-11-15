@@ -1,0 +1,17 @@
+Choose an option:
+1. Arithmetic Operations
+2. Comparison Operations
+3. Celsius to Fahrenheit
+4. Fahrenheit to Celsius
+
+Enter your choice (1-4): 1
+Enter first number: 4
+Enter second number: 8
+
+Arithmetic Operations
+Addition = 12.0
+Subtraction = -4.0
+Multiplication = 32.0
+Division = 0.5
+Modulus = 4.0
+Power = 65536.0
